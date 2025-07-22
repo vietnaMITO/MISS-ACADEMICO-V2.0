@@ -1,4 +1,3 @@
-```yaml
 manifesto:
   - link_original: "PLS 349/2015"
     novo_nome_arquivo: "001_SEN_PROJETO_TextoInicial.pdf"
@@ -120,4 +119,3 @@ manifesto:
   - link_original: "https://legis.senado.leg.br/sdleg-getter/documento? dm=7750247&ts=1701804874882"
     novo_nome_arquivo: "040_VETO_OFICIO_OficioCN353Camara.pdf"
     caminho_destino: "04_Fase_ApreciacaoVeto/Documentos_Brutos/"
-```
