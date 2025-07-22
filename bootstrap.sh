@@ -1,0 +1,12 @@
+#!/bin/bash
+ROOT_DIR="MISS-ACADEMICO-V2.0"
+mkdir -p "$ROOT_DIR/00_Metadados_e_Guias/DOCS_REFERENCIA"
+mkdir -p "$ROOT_DIR/01_Fase_Senado/Documentos_Brutos"
+mkdir -p "$ROOT_DIR/01_Fase_Senado/Analises"
+mkdir -p "$ROOT_DIR/02_Fase_Camara/Documentos_Brutos"
+mkdir -p "$ROOT_DIR/02_Fase_Camara/Analises"
+mkdir -p "$ROOT_DIR/03_Fase_Sancao_Veto/Documentos_Brutos"
+mkdir -p "$ROOT_DIR/03_Fase_Sancao_Veto/Analises"
+touch "$ROOT_DIR/00_Metadados_e_Guias/README.md"
+touch "$ROOT_DIR/00_Metadados_e_Guias/MPL_v1.md"
+touch "$ROOT_DIR/Indice_Mestre_de_Documentos.md"
